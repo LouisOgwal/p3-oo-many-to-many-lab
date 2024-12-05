@@ -8,6 +8,7 @@ pytest = "*"
 ipdb = "*"
 importlib-resources = "*"
 importlib-metadata = "*"
+shell = "*"
 
 [dev-packages]
 
